@@ -4,7 +4,7 @@ Repositório para gerenciamento de imagem Linux com todo o setup base, necessár
 
 ## Docker HUB
 
-Imagem final: [Base PHP 8.0](https://hub.docker.com/repository/registry-1.docker.io/adrianowead/viware-base-php/tags?page=1&ordering=last_updated)
+Imagem final: [Base PHP 8.0](https://hub.docker.com/repository/registry-1.docker.io/adrianowead/php80-apache2/tags?page=1&ordering=last_updated)
 
 ## Recursos
 * PHP 8.0 [<img src="https://www.php.net/images/php8/logo_php8.svg" height="14"/>](https://www.php.net/images/php8/logo_php8.svg)
