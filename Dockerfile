@@ -62,8 +62,6 @@ RUN mkdir -p /root/.ssh \
 RUN ssh-keyscan -H ssh.dev.azure.com > /root/.ssh/known_hosts
 
 RUN apt purge -y \
-    ca-certificates \
-    lsb-release \
     apt-transport-https
 
 RUN apt-get -y autoremove \
